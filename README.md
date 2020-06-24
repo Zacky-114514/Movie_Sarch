@@ -1,68 +1,36 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Chat-app
 
-## Available Scripts
+スクールのカリキュラムにて自作しました。 
 
-In the project directory, you can run:
+# ログイン画面
 
-### `yarn start`
+<img width="521" alt="Login" src="https://user-images.githubusercontent.com/62335149/85378125-1963e680-b575-11ea-8f0c-cb8ad8662d57.png">
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# サインアップ画面
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<img width="536" alt="Signin" src="https://user-images.githubusercontent.com/62335149/85378454-8b3c3000-b575-11ea-8452-844e001afd31.png">
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# ルーム画面
 
-### `yarn build`
+<img width="379" alt="Room" src="https://user-images.githubusercontent.com/62335149/85378351-6b0c7100-b575-11ea-922c-d7586b8f8829.png">
+ 
+ 
+# 起動方法
+ 
+①当ファイルをダウンロード後、ファイルをターミナル(windowsの場合、コマンドプロンプト)に貼り付け
+　(貼り付け前にcdをつけること)
+ 
+ <img width="1440" alt="①" src="https://user-images.githubusercontent.com/62335149/85387272-92683b80-b57f-11ea-836c-5782695986bc.png">
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ 
+②コマンド「yarn start」を入力し、enterキー押下。
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<img width="1440" alt="②-1" src="https://user-images.githubusercontent.com/62335149/85387340-a9a72900-b57f-11ea-9fde-51d4f52c4a3a.png">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img width="1440" alt="②-2" src="https://user-images.githubusercontent.com/62335149/85387738-2afebb80-b580-11ea-9823-20fec6bd485b.png">
 
-### `yarn eject`
+<img width="1440" alt="③" src="https://user-images.githubusercontent.com/62335149/85388395-048d5000-b581-11ea-98cb-3725c717ef93.png">
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+③webブラウザ上でログイン画面が起動。
